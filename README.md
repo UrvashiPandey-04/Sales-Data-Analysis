@@ -165,6 +165,32 @@ Through this project, the following skills were developed:
 
 ---
 
+## Dataset Size
+
+Total Records: ~186,000  
+Total Features: 6
+
+---
+
+## Business Insights
+
+1. Sales peak during the holiday season, especially in December.
+2. Everyday electronic accessories like batteries and charging cables dominate sales volume.
+3. Major metropolitan cities contribute the highest revenue.
+4. Customer purchasing activity peaks around midday and evening hours.
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Data Visualization
+- Business Insight Generation
+
+---
+
 ## Future Improvements
 
 Possible future enhancements include:
